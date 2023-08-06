@@ -1,5 +1,5 @@
 # Labyrinth2
-This project represents board game [Labyrinth](https://en.wikipedia.org/wiki/Labyrinth_(board_game)).
+This project is inspired by the real board game [Labyrinth by Ravensburger](https://en.wikipedia.org/wiki/Labyrinth_(board_game)).
 
 To start the project front-end Main.java class should be run. 
 
