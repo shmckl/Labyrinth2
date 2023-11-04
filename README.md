@@ -3,8 +3,7 @@ This project is inspired by the real board game [Labyrinth by Ravensburger](http
 
 To start the project front-end Main.java class should be run. 
 
-This is the University project at which our team has been provided by a previous team to improve their project as well as add a game editor to the project. 
-During this, we've changed the general project design, tested and fixed big amount of bugs, added a game editor, new file format, backend, and front end.
+Our team has undertaken a university project with the objective of enhancing the work of a previous team. Our efforts have involved substantial improvements to the project's overall design, rigorous testing and debugging, the introduction of a game editor, the implementation of a new file format, and the development of both backend and frontend components.
 
 Menu example:
 ![Menu](UI.gif)
